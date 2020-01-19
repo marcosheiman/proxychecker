@@ -1,16 +1,22 @@
 <a href="https://twitter.com/marcosheiman"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxmsun6YO-IZGh6i3XuQ23QZwnqvgPzH2lRkYyGidEtW_2fQd&s"></a>
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
-
-# Repository Title Goes Here
+# ProxyChecker with NodeJS
 
 > Subtitle or Short Description Goes Here
 
 > ideally one sentence
 
-> include terms/tags that can be searched
+> proxychecker, nodejs, javascript, proxychecker with nodejs, proxychecker with javascript
+
+## Table of Contents (Optional)
+
+> If your `README` has a lot of info, section headers might be nice.
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [FAQ](#faq)
+- [Support](#support)
+- [License](#license)
 
 **Badges will go here**
 
@@ -32,18 +38,6 @@
 ## Usage
 
 ![Recordit GIF](http://g.recordit.co/iW04XP6Bj1.gif)
-
----
-
-## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
 
 ---
 
