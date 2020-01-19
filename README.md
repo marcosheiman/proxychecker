@@ -29,7 +29,7 @@
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
 
-**Usage**
+## Usage
 
 ![Recordit GIF](http://g.recordit.co/iW04XP6Bj1.gif)
 
@@ -40,28 +40,10 @@
 > If your `README` has a lot of info, section headers might be nice.
 
 - [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
+- [Usage](#usage)
 - [FAQ](#faq)
 - [Support](#support)
 - [License](#license)
-
-
----
-
-## Example (Optional)
-
-```javascript
-// code away!
-
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
-```
 
 ---
 
