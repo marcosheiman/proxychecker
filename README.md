@@ -1,2 +1,0 @@
-# proxychecker
-ProxyChecker with nodejs
