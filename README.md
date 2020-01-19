@@ -49,7 +49,7 @@
 
 **Recordit**
 
-![Recordit GIF](https://g.recordit.co/iW04XP6Bj1)
+![Recordit GIF](http://g.recordit.co/iW04XP6Bj1.gif)
 
 **ttystudio**
 
