@@ -2,12 +2,6 @@
 
 # ProxyChecker with NodeJS
 
-> Subtitle or Short Description Goes Here
-
-> ideally one sentence
-
-> proxychecker, nodejs, javascript, proxychecker with nodejs, proxychecker with javascript
-
 ## Table of Contents (Optional)
 
 > If your `README` has a lot of info, section headers might be nice.
@@ -61,41 +55,28 @@ $ npm install
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/marcosheiman/proxychecker.git`
 
 ### Step 2
 
-- **HACK AWAY!** 🔨🔨🔨
+- **Install npm packages**
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+- Put a proxy.txt file inside your cloned folder.
+
+### Step 4
+
+- Run ProxyChecker.exe
+
 
 ---
+
 
 ## FAQ
 
 - **How do I execute the program?**
     - Put a file name proxy.txt inside your folder then run ProxyChecker.exe.
-
----
-
-## Support
-
-Reach out to me at one of the following places!
-
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
-
----
-
-## Donations (Optional)
-
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
-
 
 ---
 
@@ -105,3 +86,8 @@ Reach out to me at one of the following places!
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+
+---
+
+**KEYWORDS IGNORE**
+>  proxychecker, nodejs, javascript, proxychecker with nodejs, proxychecker with javascript
