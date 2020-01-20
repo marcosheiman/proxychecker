@@ -8,7 +8,6 @@
 - [License](#license)
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/marcosheiman)
 
 ---
 
