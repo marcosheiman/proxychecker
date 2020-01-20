@@ -1,10 +1,6 @@
-<a href="https://twitter.com/marcosheiman"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxmsun6YO-IZGh6i3XuQ23QZwnqvgPzH2lRkYyGidEtW_2fQd&s"></a>
-
 # ProxyChecker with NodeJS
 
 ## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
 
 - [Installation](#installation)
 - [Usage](#usage)
