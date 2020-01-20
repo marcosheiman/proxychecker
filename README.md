@@ -4,7 +4,6 @@
 
 - [Tutorial](#tutorial)
 - [FAQ](#faq)
-- [Usage](#usage)
 - [License](#license)
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
@@ -50,12 +49,6 @@
     $ git clone https://github.com/marcosheiman/proxychecker/
     ```
  
----
-  
-## Usage
-
-![Usage GIF](http://g.recordit.co/iW04XP6Bj1.gif)
-
 ---
 
 ## License
