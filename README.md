@@ -31,14 +31,6 @@
 
 ---
 
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/marcosheiman/proxychecker/`
-
-```bash
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-```
-
 > now install npm packages
 
 ```shell
@@ -73,6 +65,13 @@ $ npm install
 
 - **How do I execute the program?**
     - Put a file name proxy.txt inside your folder then run ProxyChecker.exe.
+    
+- **How do I clone this repo?**
+
+## Clone
+```bash
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
 
 ---
 
