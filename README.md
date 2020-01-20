@@ -67,11 +67,9 @@ $ npm install
     - Put a file name proxy.txt inside your folder then run ProxyChecker.exe.
     
 - **How do I clone this repo?**
-
-## Clone
-```bash
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-```
+    ```bash
+    $ git clone https://github.com/marcosheiman/proxychecker/
+    ```
 
 ---
 
@@ -80,7 +78,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+- Copyright 2020 © <a href="https://twitter.com/marcosheiman" target="_blank">Twitter - Marcos Heiman</a>.
 
 ---
 
